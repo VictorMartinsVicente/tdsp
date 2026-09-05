@@ -1,0 +1,7 @@
+data/interim/
+data/processed/
+code/deployment/*.joblib
+code/deployment/exemplo_entrada.csv
+code/deployment/previsoes*.csv
+.ipynb_checkpoints/
+__pycache__/
